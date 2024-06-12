@@ -1,0 +1,235 @@
+1;Ácido Fusidico
+2;Ácido Nalidíxico
+3;Ácido paraminossalicílico
+4;Ácido pipemídico
+5;Amicacina
+6;Amicacina-fosfomicina
+7;Amoxicilina
+8;Amoxicilina-ácido clavulânico
+9;Ampicilina
+10;Ampicilina-sulbactam
+11;Azitromicina
+12;Azlocillina
+13;Aztreonam
+14;Aztreonam-avibactam
+15;Besifloxacino
+16;Biapenem
+17;Cadazolida
+18;Canamicina
+19;Capreomicina
+20;Carbenicilina
+21;Cefaclor
+22;Cefadroxil
+23;Cefalexina
+24;Cefalotina
+25;Cefamandol
+26;Cefapirina
+27;Cefazolina
+28;Cefdinir
+29;Cefditoren
+30;Cefepima
+31;Cefepime-tazobactam
+32;Cefepime-zidebactam
+33;Cefetamet
+34;Cefiderocol
+35;Cefixime
+36;Cefmetazol
+37;Cefonicide
+38;Cefoperazona
+39;Cefotaxima
+40;Cefotaxima-ácido clavulânico
+41;Cefotetan
+42;Cefoxitina
+43;Cefalosporinas de 3ª G
+44;Cefpiroma
+45;Cefpodoxima
+46;Cefprozil
+47;Cefradine
+48;Ceftarolina
+49;Ceftarolina-avibactam
+50;Ceftazidima
+51;Ceftazidima-avibactam
+52;Ceftibuten
+53;Ceftizoxime
+54;Ceftobiprol
+55;Ceftolozane-tazobactam
+56;Ceftriaxona
+57;Cefuroxima
+58;Cicloserina
+59;Cinoxacina
+60;Ciprofloxacino
+61;Claritromicina
+62;Clinafloxacino
+63;Clindamicina
+64;Clofazimina
+65;Cloranfenicol
+66;Cloxacilina
+67;Colistina (Polimixina E)
+68;Dalbavancina
+69;Daptomicina
+69;Daptomicina 
+70;Delafloxacina
+71;Dicloxacilina
+72;Diritromicina
+73;Doripenem
+74;Doxiciclina
+75;Enrofloxacino
+76;Eravaciclina
+77;Eritromicina
+78;Ertapenem
+79;Esparfloxacina
+80;Espectinomicina
+81;Espiramicina
+82;Estreptomicina
+83;Estreptomicina (de alta concentração)
+84;Etambutol
+85;Etionamida
+86;Faropenem
+87;Fidaxomicina
+88;Finafloxacina
+89;Fleroxacina
+90;Furazolidona
+91;Fosfomicina
+92;Flucloxacina
+93;Garenoxacino
+94;Gatifloxacina
+95;Gemifloxacina
+96;Gentamicina
+97;Gentamicina (de alta concentração)
+98;Gepotidacina
+99;Grepafloxacina
+100;Iclaprim
+101;Imipenem
+102;Imipenem-relebactam
+103;Isoniazida
+104;Lefamulino
+105;Levofloxacino
+106;Levonadifloxacino
+107;Lincomicina
+108;Linezolida
+109;Linopristina-flopristina
+110;Lomefloxacina
+111;Loracarbefe
+112;Mecilinam
+113;Meropenem
+114;Meropenem-vaborbactam
+115;Meticilina
+116;Metronidazol
+117;Mezlocilina
+118;Minociclina
+119;Moxalactam
+120;Moxifloxacino
+121;Mupirocina
+122;Nafcillina
+123;Nafitromicin
+124;Netilmicina
+125;Nitazoxanide
+126;Nitrofurantoína
+127;Norfloxacino
+128;Ofloxacino
+129;Omadaciclina
+130;Oritavancina
+131;Oxacilina
+132;Pefloxacino
+133;Penicilina
+134;Piperacilina
+135;Piperacilina-tazobactam
+136;Pexiganan
+137;Pirazinamida
+138;Plazomicina
+139;Polimixina B
+140;Posilozid
+141;Protionamida
+142;Quinupristina-dalfopristina
+142;Quino+Dalfopristina
+143;Radezolida
+144;Ramoplanina
+145;Razupenem
+146;Rifampicina
+147;Rifaximina
+148;Roxitromicina
+149;Secnidazol
+150;Solitromicina
+151;Trimetoprima-Sulfametoxazol
+152;Sulfisoxazol
+153;Sulfonamida
+154;Sulfatiazol
+155;Sulopenem
+156;Surotomicina
+157;Tedizolida
+158;Teicoplanina
+159;Telavancina
+160;Telitromicina
+161;Temocilina
+162;Terizidona
+163;Tetraciclina
+164;Ticarcilina
+165;Ticarcilina-ácido clavulânico
+166;Tigeciclina
+167;Tinidazol
+168;Tinoxanide
+169;Tizoxanide
+170;Tobramicina
+171;Torezolida
+172;Trimetoprima
+173;Trospectomicina
+174;Trovafloxacina
+175;Ulifloxacina (prulifloxacina)
+176;Vancomicina
+113;Meropenem (meningite)
+113;Meropenem (não meningite)
+113;Meropenem (n�o meningite)
+126;Nitrofurantoina
+30;Cefepime
+8;Amoxa/Ac. Clavulânico (urina)
+8;Amoxa/Ac. Clavul�nico (urina)
+8;Amoxa/Ac.Clavulânico (não meningite)
+60;Ciprofloxacina
+56;Ceftriaxona (não meningite)
+56;Ceftriaxona (n�o meningite)
+127;Norfloxacina
+57;Cefuroxime – Axetil
+57;Cefuroxime
+151;Sulf./Trimetoprim
+135;Piperac./Tazobactam
+55;Ceftalozane / Tazobactam
+51;Ceftazidima / avibactam
+0;Resist.induzida Clindamicina
+105;Levofloxacina
+133;Benzilpenicilina
+8;Amoxa/Ac.Clavulânico
+8;Amoxa/Ac.Clavul�nico
+7;Amoxacilina
+10;Ampic./Sulbactam
+9;Ampicilina(meningite)
+9;Ampicilina(outra)
+39;Cefotaxima (Meningite)
+39;Cefotaxima (Outra)
+42;Cefoxitin
+48;Ceftarolina(outra)
+48;Ceftarolina(pneumonia)
+50;Ceftazidime
+56;Ceftriaxona (meningite)
+56;Ceftriaxone
+60;Ciprofloxacin
+67;Colistina
+82;Estreptomicina 2000
+83;Estreptomicina Alto Nível (Sinergia)
+83;Estreptomicina Alto N�vel (Sinergia)
+91;Fosfomicina(oral)
+97;Gentamicina Alto Nível  (Sinergia)
+97;Gentamicina Alto N�vel  (Sinergia)
+120;Moxifloxacina
+126;Nitrofurantoin
+133;Penicillna-G
+139;PolimixinaB
+2;Ácido_Nalidixico
+2;�cido_Nalidixico
+133;Benzilpinicilina (meningite)
+133;Benzilpinicilina (não meningite)
+133;Benzilpinicilina (oral)
+133;Benzilpinicilina (pneumoniae)
+0;D-Teste
+0;Inducible Clindamycin Resistance
+0;CefoxitinScreen
+57;Cefuroxime - Axetil
